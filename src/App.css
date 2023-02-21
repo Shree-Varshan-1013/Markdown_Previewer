@@ -1,0 +1,33 @@
+#container{
+}
+
+textarea{
+  display: block;
+  margin-inline: auto;
+  width: 40%;
+  height: 200px;
+  resize: vertical;
+  font-size: large;
+}
+
+#preview{
+  padding: 20px;
+}
+
+#output{
+  background-color: rgb(223, 221, 221);
+  width: 550px;
+  margin-inline: auto;
+  padding: 40px;
+  /* line-height: 30px; */
+  margin-top: 40px;
+}
+
+#logo{
+  width: 700px;
+  display: block;
+  margin-inline: auto;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
